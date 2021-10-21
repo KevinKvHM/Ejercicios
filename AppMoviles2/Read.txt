@@ -1,4 +1,0 @@
-Nombre de la carpeta	-	Ejercicio
-Control-de-Registro	-	Control de resgistro de horarios
-EJERCICIO1-M2		- 	Calculo del impuesto predial
-NewEjercico		-	Control de prestamos y devoluciones
